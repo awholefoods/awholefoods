@@ -66,6 +66,7 @@ footer.copyright {
 	width: 100%;
 	text-align: center;
     font-size: 8pt;
+    float: left; 
 }
 
 nav {
