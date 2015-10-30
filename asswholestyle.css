@@ -52,7 +52,7 @@ section.right {
 section.centered {
 	margin-right:auto;
 	margin-left:auto;
-    	width: 90%;
+    	width: 100%;
 }
 
 section#bottom {
