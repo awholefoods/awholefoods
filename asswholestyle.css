@@ -24,6 +24,22 @@ a:visited {
 	font-family: "HGPMinchoE", sans-serif;
 }
 
+a:link#p {
+	color: white;
+	font-family: "HGPMinchoE", sans-serif;
+	line-height: 150%;
+	
+
+}
+
+a:visited#p {
+	color: white;
+	font-family: "HGPMinchoE", sans-serif;
+	line-height: 150%;
+	
+}
+
+
 
 h1 {
     text-align: center;
